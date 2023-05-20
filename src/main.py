@@ -1,8 +1,10 @@
-import flet
+import flet as ft
 import requests
 
-def main():
-    print("Starting program")
+def main(page: ft.Page):
+    # add/update controls on Page
+    pass
+
 
 if __name__ == '__main__':
-    main()
+    ft.app(target=main)
