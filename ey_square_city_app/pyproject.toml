@@ -10,6 +10,9 @@ packages = [{include = "ey_square_city_app"}]
 python = "^3.10"
 flet = "^0.7.4"
 
+[tool.poetry.plugins.ey_square_city_app]
+main = "ey_square_city_app.main:main"
+
 
 [build-system]
 requires = ["poetry-core"]
