@@ -5,7 +5,7 @@ Application for the EY City hack in Bucharest
 ## List of tecnhnologies involved:
 
 - UI figma https://www.figma.com/ui-design-tool/ (design to be translated into flet) 
-- Application flet
+- Application flet => Kivy
 
 - Database: Google Firebase
 - backend server fastAPI

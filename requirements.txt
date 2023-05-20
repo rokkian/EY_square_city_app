@@ -1,6 +1,10 @@
 flet
 requests
 fastapi
-basemap-data
-basemap
 folium
+python-for-android
+kivy[base]
+kivy_examples
+kivymd
+kivy-garden
+kivy-garden.mapview
