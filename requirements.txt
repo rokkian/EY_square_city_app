@@ -3,8 +3,9 @@ requests
 fastapi
 folium
 python-for-android
-kivy[base]
+kivy[full]
 kivy_examples
 kivymd
 kivy-garden
 kivy-garden.mapview
+firebase_admin
