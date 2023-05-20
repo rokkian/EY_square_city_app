@@ -1,3 +1,6 @@
 flet
 requests
 fastapi
+basemap-data
+basemap
+folium
