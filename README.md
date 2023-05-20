@@ -10,3 +10,5 @@ Application for the EY City hack in Bucharest
 - Database: Google Firebase
 - backend server fastAPI
 - backend: come cloud service for hosting the fastAPI server
+
+jefbnekjbfker
